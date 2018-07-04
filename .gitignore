@@ -1,0 +1,6 @@
+Application/Common/Conf/config.php
+Application/Home/Conf/config.php
+Application/Runtime/*
+.settings/*
+.buildpath
+.project
